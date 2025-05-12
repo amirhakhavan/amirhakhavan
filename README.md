@@ -17,6 +17,7 @@
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Mui" width="40" height="40"/>
 
        
   <!-- Design -->
@@ -28,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
   
   <!-- Other Technologies -->
   <img src="https://www.svgrepo.com/show/354243/qt.svg" alt="QT" width="40" height="40"/>
