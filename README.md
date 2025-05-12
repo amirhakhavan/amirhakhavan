@@ -27,6 +27,7 @@
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svgg" alt="Git" width="40" height="40"/>
   
   <!-- Other Technologies -->
   <img src="https://www.svgrepo.com/show/354243/qt.svg" alt="QT" width="40" height="40"/>
