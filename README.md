@@ -12,17 +12,20 @@
 
 <p align="center">
   <!-- Frontend -->
+ 
   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="40" height="40"/>
-  
+
+       
   <!-- Design -->
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" width="40" height="40"/>
   
   <!-- Programming Languages -->
   <img src="https://www.svgrepo.com/show/373728/kotlin.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   
   <!-- Other Technologies -->
   <img src="https://www.svgrepo.com/show/354243/qt.svg" alt="QT" width="40" height="40"/>
