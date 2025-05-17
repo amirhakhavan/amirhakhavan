@@ -14,7 +14,7 @@
   <!-- Frontend -->
  
   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="40" height="40"/>
