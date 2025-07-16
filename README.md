@@ -19,6 +19,7 @@
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Mui" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tw" width="40" height="40"/>
 
        
   <!-- Design -->
@@ -52,10 +53,4 @@
   <a href="https://instagram.com/amirh_akhavan">
     <img src="https://www.svgrepo.com/show/343562/instagram-social-media-network-communication-interaction-connection.svg" alt="Instagram" height="30" width="30"/>
   </a>
-</p>
-
-<br>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhakhavan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
